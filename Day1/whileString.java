@@ -1,4 +1,4 @@
-class zhong
+class whileString
 {
 	public static void main(String[] args)
 	{
