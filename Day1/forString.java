@@ -1,4 +1,4 @@
-class ioio
+class forString
 {
 	public static void main(String[] args)
 	{
