@@ -6,15 +6,15 @@ class SelectionSort
 	{
 		int num1=0, num2=0, num3=0, num4=0, num5=0, temp =0;
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Ã¹¹øÂ° ¼ıÀÚ ÀÔ·Â");
+		System.out.println("ì²«ë²ˆì§¸ ìˆ«ì ì…ë ¥");
 		num1 = sc.nextInt();
-		System.out.println("µÎ¹øÂ° ¼ıÀÚ ÀÔ·Â");
+		System.out.println("ë‘ë²ˆì§¸ ìˆ«ì ì…ë ¥");
 		num2 = sc.nextInt();
-		System.out.println("¼¼¹øÂ° ¼ıÀÚ ÀÔ·Â");
+		System.out.println("ì„¸ë²ˆì§¸ ìˆ«ì ì…ë ¥");
 		num3 = sc.nextInt();
-		System.out.println("³×¹øÂ° ¼ıÀÚ ÀÔ·Â");
+		System.out.println("ë„¤ë²ˆì§¸ ìˆ«ì ì…ë ¥");
 		num4 = sc.nextInt();
-		System.out.println("´Ù¼¸¹øÂ° ¼ıÀÚ ÀÔ·Â");
+		System.out.println("ë‹¤ì„¯ë²ˆì§¸ ìˆ«ì ì…ë ¥");
 		num5 = sc.nextInt();
 
 		if(num1>num2)
