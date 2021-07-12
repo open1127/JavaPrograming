@@ -1,0 +1,12 @@
+class DoWhileTest3
+{
+	public static void main(String[] args)
+	{
+		int i = 4,cnt=0;
+	 	do{
+			cnt= cnt+1;
+			System.out.println("i="+i+" cnt="+cnt);
+			i=i+4;
+		}while(i<=100);
+	}
+}
