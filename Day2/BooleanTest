@@ -1,0 +1,19 @@
+class BooleanTest		
+{
+	public static void main(String[] args)
+	{
+		boolean result;		//true, false
+
+		result = 5>3;
+		System.out.println(result);
+		result = 5<3;
+		System.out.println(result);
+		result = 5==5;
+		System.out.println(result);
+		result = 5!=5;
+		System.out.println(result);	//false
+		result = 5!=3;
+		System.out.println(result); 	//true
+
+	}
+}
